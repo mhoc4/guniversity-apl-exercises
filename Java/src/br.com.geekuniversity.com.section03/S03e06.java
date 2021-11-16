@@ -17,7 +17,7 @@ public class S03e06 {
 
         totalWage = workTimeValue * monthlyWorkHours;
 
-        System.out.println("This is how much you gonna earn per month: " + totalWage);
+        System.out.println("This is how much you gonna earn this month: " + totalWage);
         
         userInput.close();
 
