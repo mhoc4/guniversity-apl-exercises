@@ -13,7 +13,7 @@ public class S03e07 {
         
         idealBMI = (72.7F * personHeight) - 58;
 
-        System.out.println("\nFor the height of " + personHeight + " the ideal BMI is: " + idealBMI);
+        System.out.printf("\nFor the height of %.2f the ideal BMI is: %.2f", personHeight, idealBMI);
         
         userInput.close();
 
