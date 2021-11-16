@@ -1,1 +1,1 @@
-Solved exercises from the [Geek University's Algorithm and Programming Logic course](Solved%20exercises%20from%20the%20Geek%20University%27s%20Algorithm%20and%20Programming%20Logic%20course%20%20https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/)
+Solved exercises from the [Geek University's Algorithm and Programming Logic course](https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/)
