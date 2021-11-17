@@ -17,11 +17,11 @@ public class S06e04 {
             System.out.println("\nPlease enter a gender f/m: ");
             gender = userInput.next().strip();
 
-            if (gender.equalsIgnoreCase("f")) {
+            if (gender.charAt(0) == 'f') {
                 idealBMI = (62.1F * personHeight) - 44.7F;
                 gender = "feminine";
                 
-            } else if (gender.equalsIgnoreCase("m")) {
+            } else if (gender.charAt(0) == 'm') {
                 idealBMI = (72.7F * personHeight) - 58F;
                 gender = "masculine";
                 
