@@ -21,7 +21,7 @@ public class S06e05 {
             m = 0;
         }
 
-        System.out.printf("\nFish caught weight: %.2f\nAbove weight limit: %.2f\nFine: %.2f\n", p, e, m);
+        System.out.printf("\nFish caught weight: %.2f\nAbove weight limit: %.2f\nFine: R$ %.2f\n", p, e, m);
         
         userInput.close();
 
