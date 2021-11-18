@@ -1,4 +1,4 @@
-package br.com.geekuniversity.com.section07;
+package br.com.geekuniversity.section07;
 
 public class S07e02 {
     

@@ -1,4 +1,4 @@
-package br.com.geekuniversity.com.section02;
+package br.com.geekuniversity.section02;
 
 import java.util.Scanner;
 
