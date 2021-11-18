@@ -4,11 +4,14 @@ Solved exercises in C and Java for study purposes.
 
 Click [here](https://www.udemy.com/course/algoritmos-e-logica-de-programacao-essencial/) to access the course mentioned (PT-BR).
 
+
 ## TO DO
 
-Solve exercises in Python.
+- Solve exercises in Python.
 
-## Exercises list (PT-BR):
+
+## Exercises list
+Exercises in PT-BR language.
 
 ### Section 2
 ![Section 2](exercises/section02.png)
