@@ -2,8 +2,6 @@ package br.com.geekuniversity.com.section06;
 
 import java.util.Scanner;
 
-import javax.print.event.PrintEvent;
-
 public class S06e09 {  
         
     public static void main(String[] args) {
