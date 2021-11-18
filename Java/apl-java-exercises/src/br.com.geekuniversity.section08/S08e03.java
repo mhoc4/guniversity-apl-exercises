@@ -16,7 +16,7 @@ public class S08e03 {
             numbers.add(userInput.nextInt());
         }
         
-        for (int counter = numbers.size()-1; counter > 0;counter--) {
+        for (int counter = numbers.size()-1; counter >= 0;counter--) {
             System.out.printf("\nNumber at index %d: %d", counter, numbers.get(counter));
         }
 
