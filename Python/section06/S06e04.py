@@ -1,5 +1,5 @@
 personHeight = float(input ("How tall are you in meters? "))
-personGender = input("Please enter your gender f/m.")
+personGender = input("Please enter your gender f/m. ")
 
 if personGender.lower() == 'm':
     idealBMI = (72.7 * personHeight - 58)
