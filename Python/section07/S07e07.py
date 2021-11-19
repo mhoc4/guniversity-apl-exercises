@@ -39,8 +39,8 @@ if mouseCode != 0:
         brokenOruselessPercentage = (brokenOrUseless / mouseQuantity) * 100
 
 print("\nMouse quantity: {0}\n".format(mouseQuantity))
-print("Status\t\t\t\t\tQuantity\t\tPercentage")
-print("1 - needs sphere\t\t\t{0}\t\t\t{1}%".format(needsSphere, needsSpherePercentage))
-print("2 - needs cleaning\t\t\t{0}\t\t\t{1}%".format(needsCleaning, needsCleaningPercentage))
-print("3 - needs conect or cable change\t{0}\t\t\t{1}%".format(needsConectorOrCableChange, needsConectorOrCableChangePercentage))
-print("4 - broken or useless\t\t\t{0}\t\t\t{1}%".format(brokenOrUseless, brokenOruselessPercentage))
+print("Status                             Quantity    Percentage")
+print("1 - needs sphere                   {0}           {1:.2f}%".format(needsSphere, needsSpherePercentage))
+print("2 - needs cleaning                 {0}           {1:.2f}%".format(needsCleaning, needsCleaningPercentage))
+print("3 - needs conect or cable change   {0}           {1:.2f}%".format(needsConectorOrCableChange, needsConectorOrCableChangePercentage))
+print("4 - broken or useless              {0}           {1:.2f}%".format(brokenOrUseless, brokenOruselessPercentage))
