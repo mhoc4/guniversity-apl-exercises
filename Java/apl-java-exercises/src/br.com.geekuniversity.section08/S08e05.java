@@ -25,7 +25,7 @@ public class S08e05 {
         }
 
         if (!isThereNumberAboveFifty) {
-            System.out.println("\nThere is no number above 50.");
+            System.out.println("\nThere is no number bigger than 50.");
         }
         
         userInput.close();
