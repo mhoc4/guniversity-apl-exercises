@@ -1,6 +1,5 @@
 package br.com.geekuniversity.section08;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class S08e04 {
