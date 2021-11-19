@@ -1,10 +1,13 @@
-vector = []
-evenNumbers = []
+numbersOne = []
+numbersTwo = []
+numbersSum = []
 
-for index in range(0,5):
-    vector.append(int(input("Please enter a number {0}/5: ".format(index+1))))
-    if vector[index] % 2 == 0:
-        evenNumbers.append(vector[index])
+for index in range(0,10):
+    numbersOne.append(int(input("Please enter first number {0}/10: ".format(index+1))))
+    numbersTwo.append(int(input("Please enter second number {0}/10: ".format(index+1))))
 
-for index in evenNumbers:
-    print("Even number: {0}".format(index))
+    numbersSum.append(numbersOne[index] + numbersTwo[index])
+
+print("\nList of sums by index")
+for index in range(0,10):
+    print("Sum of index {0}: {1}".format(index, numbersSum[index]))
